@@ -1,2 +1,2 @@
-# logowanie.wolterix.github.io
+# logowanie-wolterix.github.io
 logowanie
